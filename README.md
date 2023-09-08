@@ -13,6 +13,7 @@ https://drive.google.com/drive/folders/0B4Eo9mft9jwoVDNEWlhEbUNUSE0?resourcekey=
 # ref
 
 """
+
 @inproceedings{VasilevaECCV18FasionCompatibility,
     Author = {Mariya I. Vasileva and Bryan A. Plummer and Krishna Dusad and
               Shreya Rajpal and Ranjitha Kumar and David Forsyth},              
@@ -20,6 +21,7 @@ https://drive.google.com/drive/folders/0B4Eo9mft9jwoVDNEWlhEbUNUSE0?resourcekey=
     booktitle = {ECCV},  
     Year = {2018}    
 }
+
 """
 
 
