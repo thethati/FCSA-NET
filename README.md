@@ -2,8 +2,6 @@
 
 Official Pytorch implementation of the paper "Outfit Compatibility Model Using Fully Connected Self-Adjusting Graph Neural Network".
 
-Code will be available soon.
-
 # data
 
 The Polyvore  dataset is available online at 
